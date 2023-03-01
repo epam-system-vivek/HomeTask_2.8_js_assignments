@@ -1,1 +1,0 @@
-# HomeTask_2.8_js_assignments
